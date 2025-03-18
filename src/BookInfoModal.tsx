@@ -1,4 +1,4 @@
-import Ticket from './Ticket';
+import { Ticket } from './Ticket';
 
 /*
 Un cliente quiere que construyamos un programa
